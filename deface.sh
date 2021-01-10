@@ -1,13 +1,13 @@
 #!/data/data/com.termux/usr/bin/bash
 clear
-echo '[+] Author : alonebreecher'
+echo '[+] Author : A10N3_8633CH36'
 echo '[+] Team : alonebreecher'
 echo '[+] Github : https://www.github.com/alonebreecher'
 echo ''
 echo ''
 read -p $'\e[32mWeb Target :\e[0m ' target
-read -p $'\e[32mCreate a Username for the script :\e[0m ' user
-read -p $'\e[32mmessage1  :\e[0m ' message1
+read -p $'\e[32mTEXT ANYTHING HERE :\e[0m ' user
+read -p $'\e[32mLEAVE ME HERE :\e[0m ' message1
 cd $HOME
 rm index.html
 cat <<LOGIN>index.html
