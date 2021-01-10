@@ -1,7 +1,7 @@
 #!/data/data/com.termux/usr/bin/bash
 clear
 echo '[+] Author : A10N3_8633CH36'
-echo '[+] Team : alonebreecher'
+echo '[+] Team   : alonebreecher'
 echo '[+] Github : https://www.github.com/alonebreecher'
 echo ''
 echo ''
