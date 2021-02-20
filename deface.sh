@@ -1,4 +1,4 @@
-#!/data/data/com.termux/usr/bin/bash
+#!/usr/bin/bash
 clear
 echo '[+] Author : A10N3_8633CH36'
 echo '[+] Team   : alonebreecher'
